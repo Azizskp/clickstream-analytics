@@ -1,0 +1,128 @@
+[
+  {
+    "engine": "duckdb",
+    "rows": 1000000,
+    "query": "Monthly Revenue",
+    "time": 0.125,
+    "peak_memory": 125.89
+  },
+  {
+    "engine": "duckdb",
+    "rows": 1000000,
+    "query": "Peak Hours",
+    "time": 0.1558,
+    "peak_memory": 125.79
+  },
+  {
+    "engine": "duckdb",
+    "rows": 1000000,
+    "query": "Top Cities",
+    "time": 0.3903,
+    "peak_memory": 179.32
+  },
+  {
+    "engine": "pandas",
+    "rows": 1000000,
+    "query": "Monthly Revenue",
+    "time": 0.109,
+    "peak_memory": 315.38
+  },
+  {
+    "engine": "pandas",
+    "rows": 1000000,
+    "query": "Peak Hours",
+    "time": 0.1986,
+    "peak_memory": 342.32
+  },
+  {
+    "engine": "pandas",
+    "rows": 1000000,
+    "query": "Top Cities",
+    "time": 0.6776,
+    "peak_memory": 363.95
+  },
+  {
+    "engine": "duckdb",
+    "rows": 2500000,
+    "query": "Monthly Revenue",
+    "time": 0.3511,
+    "peak_memory": 273.37
+  },
+  {
+    "engine": "duckdb",
+    "rows": 2500000,
+    "query": "Peak Hours",
+    "time": 0.3872,
+    "peak_memory": 273.91
+  },
+  {
+    "engine": "duckdb",
+    "rows": 2500000,
+    "query": "Top Cities",
+    "time": 0.6583,
+    "peak_memory": 408.07
+  },
+  {
+    "engine": "pandas",
+    "rows": 2500000,
+    "query": "Monthly Revenue",
+    "time": 0.1925,
+    "peak_memory": 574.5
+  },
+  {
+    "engine": "pandas",
+    "rows": 2500000,
+    "query": "Peak Hours",
+    "time": 0.4878,
+    "peak_memory": 653.26
+  },
+  {
+    "engine": "pandas",
+    "rows": 2500000,
+    "query": "Top Cities",
+    "time": 1.5022,
+    "peak_memory": 638.68
+  },
+  {
+    "engine": "duckdb",
+    "rows": 5000000,
+    "query": "Monthly Revenue",
+    "time": 0.434,
+    "peak_memory": 429.93
+  },
+  {
+    "engine": "duckdb",
+    "rows": 5000000,
+    "query": "Peak Hours",
+    "time": 0.6049,
+    "peak_memory": 432.44
+  },
+  {
+    "engine": "duckdb",
+    "rows": 5000000,
+    "query": "Top Cities",
+    "time": 1.1864,
+    "peak_memory": 609.08
+  },
+  {
+    "engine": "pandas",
+    "rows": 5000000,
+    "query": "Monthly Revenue",
+    "time": 0.2723,
+    "peak_memory": 1030.04
+  },
+  {
+    "engine": "pandas",
+    "rows": 5000000,
+    "query": "Peak Hours",
+    "time": 0.7748,
+    "peak_memory": 1168.59
+  },
+  {
+    "engine": "pandas",
+    "rows": 5000000,
+    "query": "Top Cities",
+    "time": 2.7813,
+    "peak_memory": 1176.27
+  }
+]

@@ -1,0 +1,2 @@
+total_views,total_carts,total_purchases,users_viewed,users_carted,users_purchased,event_view_to_cart_pct,event_cart_to_purchase_pct,event_overall_conversion_pct,user_view_to_cart_pct,user_cart_to_purchase_pct,user_overall_conversion_pct
+3749727,999976,250297,250000,245355,158151,26.67,25.03,6.68,98.14,64.46,63.26

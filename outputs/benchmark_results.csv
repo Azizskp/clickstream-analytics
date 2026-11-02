@@ -1,0 +1,19 @@
+engine,rows,query,time,peak_memory
+duckdb,1000000,Monthly Revenue,0.125,125.89
+duckdb,1000000,Peak Hours,0.1558,125.79
+duckdb,1000000,Top Cities,0.3903,179.32
+pandas,1000000,Monthly Revenue,0.109,315.38
+pandas,1000000,Peak Hours,0.1986,342.32
+pandas,1000000,Top Cities,0.6776,363.95
+duckdb,2500000,Monthly Revenue,0.3511,273.37
+duckdb,2500000,Peak Hours,0.3872,273.91
+duckdb,2500000,Top Cities,0.6583,408.07
+pandas,2500000,Monthly Revenue,0.1925,574.5
+pandas,2500000,Peak Hours,0.4878,653.26
+pandas,2500000,Top Cities,1.5022,638.68
+duckdb,5000000,Monthly Revenue,0.434,429.93
+duckdb,5000000,Peak Hours,0.6049,432.44
+duckdb,5000000,Top Cities,1.1864,609.08
+pandas,5000000,Monthly Revenue,0.2723,1030.04
+pandas,5000000,Peak Hours,0.7748,1168.59
+pandas,5000000,Top Cities,2.7813,1176.27

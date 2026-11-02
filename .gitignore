@@ -1,0 +1,20 @@
+# Virtual Environments
+.venv/
+.temp_test_venv/
+*venv*/
+env/
+
+# Raw Partitioned Dataset
+data/
+
+# Bytecode & Caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Temporary test logs & OS metadata
+*.log
+.DS_Store
+Thumbs.db
+.streamlit/secrets.toml

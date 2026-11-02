@@ -1,0 +1,5 @@
+segment,customer_count,pct_of_customers,total_segment_revenue,avg_spend_per_customer,avg_orders_per_customer
+"High Spenders (>= $1,000)",37498,15.0,70540495.12,1881.18,2.14
+Medium Spenders ($250 - $999),64343,25.74,35232323.62,547.57,1.63
+Low Spenders (< $250),56310,22.52,6861012.06,121.84,1.15
+Browsing Only ($0),91849,36.74,0.0,0.0,0.0
